@@ -45,4 +45,4 @@ Commit abc123 — Jul 6 08:08:21 2021
 
 ## License
 
-MIT
+[MIT](LICENSE)
