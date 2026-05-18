@@ -43,10 +43,6 @@ Commit abc123 — Dec 2 08:08:21 2021
 Commit abc123 — Jul 6 08:08:21 2021
 ```
 
-## Improvement Roadmap
-
-See [IMPROVEMENTS.md](IMPROVEMENTS.md)
-
 ## License
 
 MIT
